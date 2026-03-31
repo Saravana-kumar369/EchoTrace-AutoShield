@@ -51,7 +51,7 @@ EchoTrace-AutoShield is a **dual-web architecture** cybersecurity platform featu
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/EchoTrace-AutoShield.git
+git clone https://github.com/Saravana-kumar369/EchoTrace-AutoShield.git
 cd EchoTrace-AutoShield
 
 # Create virtual environment
